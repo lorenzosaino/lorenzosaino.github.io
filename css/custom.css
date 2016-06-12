@@ -1,0 +1,61 @@
+/*
+ * Custom modifications to Bootstrap CSS
+ */
+
+/* Padding to account for fixed navbar */
+body {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+/* These center the elements of the navbar */
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+/* Limit the width of the container */
+ .container {
+   max-width: 800px;
+ }
+
+/* Resize font size in the main part of the page */
+/*.page-main {
+  font-size: 1.1em;
+}*/
+
+/* Fix color and spacing of social icons in the header */
+.page-header a > i {
+	padding-right: 15px;
+	/*color: grey;*/
+}
+
+/* Style for the line with paper/thesis/patent award information */
+.award {
+	font-weight: bold;
+	color: red;
+}
+
+/* Make links grey */
+/*a:link, a:visited {
+    color: #808B96;
+}
+a:hover {
+    color: #566573;
+}*/
+
+/* Make text links in default and primary labels white */
+.label-default > a, .label-primary > a {
+    color: white;
+}
+
+/* This fixes the scroll offset of navbar */
+.page-main h2, #home {
+    padding-top: 70px;
+    margin-top: -60px;
+}

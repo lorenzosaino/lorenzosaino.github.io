@@ -1,0 +1,12 @@
+@inproceedings{augustus-icn16,
+ author = {Kirchner, Davide and Ferdous, Raihana and Lo Cigno, Renato and Maccari, Leonardo and Gallo, Massimo and Perino, Diego and Saino, Lorenzo},
+ title = {Augustus: a {CCN} router for programmable networks},
+ booktitle = {Proceedings of the 3rd ACM International Conference on Information-Centric Networking},
+ series = {ICN '16},
+ year = {2016},
+ location = {Kyoto, Japan},
+ pages = {31--39},
+ numpages = {9},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}

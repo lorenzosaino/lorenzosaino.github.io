@@ -1,7 +1,7 @@
 @inproceedings{hcs-icn15,
  author = {Mansilha, Rodrigo B. and Saino, Lorenzo and Barcellos, Marinho P. and Gallo, Massimo and Leonardi, Emilio and Perino, Diego and Rossi, Dario},
  title = {Hierarchical Content Stores in High-Speed {ICN} Routers: Emulation and Prototype Implementation},
- booktitle = {Proceedings of the 2nd International Conference on Information-Centric Networking},
+ booktitle = {Proceedings of the 2nd ACM International Conference on Information-Centric Networking},
  series = {ICN '15},
  year = {2015},
  isbn = {978-1-4503-3855-4},
@@ -12,4 +12,4 @@
  doi = {10.1145/2810156.2810159},
  publisher = {ACM},
  address = {New York, NY, USA},
-} 
+}

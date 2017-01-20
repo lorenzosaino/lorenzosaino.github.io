@@ -1,0 +1,7 @@
+@misc{gallo-cache,
+  author = {Gallo, Massimo and Perino, Diego and Saino, Lorenzo},
+  title = {Method for managing a distributed cache},
+  year = {2015},
+  month = {July},
+  howpublished = {Patent application EP3115904}
+}

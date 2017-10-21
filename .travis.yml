@@ -4,5 +4,6 @@ install:
   - gem install html-proofer
 
 script:
+  # Google Scholar returns 403, ignore response
   # LinkedIn returns 999 status, ignore response
-  - htmlproofer --check-html --http-status-ignore 999 --check-opengraph --check-img-http --check-sri --log-level debug
+  - htmlproofer --check-html --http-status-ignore 403,999 --check-opengraph --check-img-http --check-sri --log-level debug

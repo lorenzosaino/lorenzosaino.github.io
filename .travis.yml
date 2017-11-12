@@ -6,4 +6,5 @@ install:
 script:
   # Google Scholar returns 403, ignore response
   # LinkedIn returns 999 status, ignore response
-  - htmlproofer --check-html --http-status-ignore 403,999 --check-opengraph --check-img-http --check-sri --log-level debug
+  # Only fail for 4xx because UCL website checks fails because of a certifcate issue
+  - htmlproofer --check-html --http-status-ignore 403,999 --only-4xx --check-opengraph --check-img-http --check-sri --log-level debug

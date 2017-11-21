@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/lorenzosaino
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lorenzosaino.github.io
+  * I am lorenzosaino (https://keybase.io/lorenzosaino) on keybase.
+  * I have a public key ASBousRzT3M32j7nqE6G-eenJAGf_G_Eg2wqbyiVYpD5-go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012068bac4734f7337da3ee7a84e86f9e7a724019ffc6fc4836c2a6f28956290f9fa0a",
+      "host": "keybase.io",
+      "kid": "012068bac4734f7337da3ee7a84e86f9e7a724019ffc6fc4836c2a6f28956290f9fa0a",
+      "uid": "94b4df7b59fa209a01a9b178ffb33319",
+      "username": "lorenzosaino"
+    },
+    "merkle_root": {
+      "ctime": 1511270522,
+      "hash": "19b5e9166ed747040a1135e9c9c8088677d36cad5f71d01e5531bbe47e03fa2b87e6a3cde01ef844360789f6eb38dbcfbf4b5d9795963f2a0fbe1647604c6d0c",
+      "hash_meta": "663516741f2578bd602ef76e86ae5c5fc3ce04567b42051298bdf5c726d4085c",
+      "seqno": 1725721
+    },
+    "service": {
+      "hostname": "lorenzosaino.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1511270525,
+  "expire_in": 504576000,
+  "prev": "52e74c1fe4d5e70f17cb3a964c3ed4e188ae348b31d65421d6dfe52dfb67de04",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaLrEc09zN9o+56hOhvnnpyQBn/xvxINsKm8olWKQ+foKp3BheWxvYWTFA1N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjhiYWM0NzM0ZjczMzdkYTNlZTdhODRlODZmOWU3YTcyNDAxOWZmYzZmYzQ4MzZjMmE2ZjI4OTU2MjkwZjlmYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjhiYWM0NzM0ZjczMzdkYTNlZTdhODRlODZmOWU3YTcyNDAxOWZmYzZmYzQ4MzZjMmE2ZjI4OTU2MjkwZjlmYTBhIiwidWlkIjoiOTRiNGRmN2I1OWZhMjA5YTAxYTliMTc4ZmZiMzMzMTkiLCJ1c2VybmFtZSI6ImxvcmVuem9zYWlubyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMTI3MDUyMiwiaGFzaCI6IjE5YjVlOTE2NmVkNzQ3MDQwYTExMzVlOWM5YzgwODg2NzdkMzZjYWQ1ZjcxZDAxZTU1MzFiYmU0N2UwM2ZhMmI4N2U2YTNjZGUwMWVmODQ0MzYwNzg5ZjZlYjM4ZGJjZmJmNGI1ZDk3OTU5NjNmMmEwZmJlMTY0NzYwNGM2ZDBjIiwiaGFzaF9tZXRhIjoiNjYzNTE2NzQxZjI1NzhiZDYwMmVmNzZlODZhZTVjNWZjM2NlMDQ1NjdiNDIwNTEyOThiZGY1YzcyNmQ0MDg1YyIsInNlcW5vIjoxNzI1NzIxfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImxvcmVuem9zYWluby5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUxMTI3MDUyNSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI1MmU3NGMxZmU0ZDVlNzBmMTdjYjNhOTY0YzNlZDRlMTg4YWUzNDhiMzFkNjU0MjFkNmRmZTUyZGZiNjdkZTA0Iiwic2Vxbm8iOjExLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQE2FH1JtUOIBmEpWOJM/YhRn0X3um18bHZvyoAnL4DRmjllUonoMd8FuDHVPlNSJ4wYVmkRLgX56JKeHoXsMtAWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD7fcPtO6LeSi+QSm4cZq4wj5IpdLzhPqc5ax3ABNtrWaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lorenzosaino
+
+==================================================================

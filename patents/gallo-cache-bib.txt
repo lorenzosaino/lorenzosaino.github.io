@@ -3,5 +3,6 @@
   title = {Method for managing a distributed cache},
   year = {2015},
   month = {July},
-  howpublished = {Patent application EP3115904}
+  howpublished = {Patent application WO/2017/005761},
+  url = {https://patentscope.wipo.int/search/en/WO2017005761}
 }

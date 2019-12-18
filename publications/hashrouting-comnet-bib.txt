@@ -8,4 +8,3 @@
   issn = {1389-1286},
   doi = {http://dx.doi.org/10.1016/j.comnet.2016.04.001},
 }
-

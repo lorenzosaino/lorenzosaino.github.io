@@ -1,0 +1,17 @@
+on: [push, pull_request]
+name: HTML check
+jobs:
+  htmlcheck:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Install Ruby
+      uses: actions/setup-ruby@v1
+    - name: Install HTML proofer
+      run: gem install html-proofer
+    # Google Scholar returns 403, ignore response
+    # LinkedIn returns 999 status, ignore response
+    # Only fail for 4xx because UCL website checks fail because of a certificate issue
+    - name: Run HTML proofer
+      run: htmlproofer --check-html --http-status-ignore 403,999 --url-ignore "#" --only-4xx --check-opengraph --check-img-http --check-sri --log-level debug

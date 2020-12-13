@@ -1,0 +1,8 @@
+@misc{taveira-fast-reroute,
+  author = {Taveira Araujo, Joao and Buytenhek, Lennert and Saino, Lorenzo and Landa, Raul},
+  title = {Fast reroute for connections over outbound paths},
+  year = {2018},
+  month = {September},
+  howpublished = {Patent application WO/2020/061168},
+  url = {https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020061168}
+}

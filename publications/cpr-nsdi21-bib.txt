@@ -1,0 +1,9 @@
+@inproceedings {cpr-nsdi21,
+    author = {Raul Landa and Lorenzo Saino and Lennert Buytenhek and Jo\~{a}o Taveira Ara\'{u}jo},
+    title = {Staying Alive: Connection Path Reselection at the Edge},
+    booktitle = {18th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 21)},
+    year = {2021},
+    url = {https://www.usenix.org/conference/nsdi21/presentation/landa},
+    publisher = {{USENIX} Association},
+    month = apr,
+}

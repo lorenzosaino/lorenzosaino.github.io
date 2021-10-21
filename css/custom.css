@@ -41,14 +41,6 @@ body {
 	color: red;
 }
 
-/* Make links grey */
-/*a:link, a:visited {
-    color: #808B96;
-}
-a:hover {
-    color: #566573;
-}*/
-
 /* Make text links in default and primary labels white */
 .label-default > a, .label-primary > a {
     color: white;

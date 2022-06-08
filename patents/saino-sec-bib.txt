@@ -1,6 +1,6 @@
 @misc{saino-sec,
   author = {Saino, Lorenzo and Le Saux, Louis-Marie},
-  title = {Data processing for securing local resouces in a mobile device},
+  title = {Data processing for securing local resources in a mobile device},
   year = {2010},
   month = {October},
   howpublished = {Patent application WO/2012/055786},

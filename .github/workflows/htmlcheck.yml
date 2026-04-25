@@ -12,6 +12,12 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v6
+    - name: Check JavaScript syntax
+      run: |
+        node --check js/site.js
+        node --check scripts/verify-static.js
+    - name: Run static verification
+      run: node scripts/verify-static.js
     - name: Install Ruby
       uses: ruby/setup-ruby@v1
       with:
